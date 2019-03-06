@@ -31,3 +31,6 @@ def hello_and_goodbye(person1, person2):
 
 
 main()
+#Hello, Snow White, - how are things?
+#Goodbye, Bashful, - see you later!
+# ...
